@@ -1,4 +1,5 @@
 # Компьютер
+![image](https://github.com/user-attachments/assets/b924794c-069b-44d4-9bcd-2e0b2ce5425f)
 
 Компьютер - однотерминальная однопользовательская, имеющая эксплуатационные характеристики бытового прибора и универсальные функциональные возможности
 Больше информации можно найти [здесь](https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D1%80%D1%81%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80#:~:text=personal%20computer%2C%20PC)
